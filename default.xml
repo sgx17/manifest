@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <manifest>    
   <remote fetch="git@github.com:sgx17" name="origin" />
-      <default remote="origin" revision="master" />
+      <default remote="origin"  />
          <project path="test"      name="test"/>
          <project path="forgitTest"      name="forgitTest" />
 </manifest>
