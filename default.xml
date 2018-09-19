@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <manifest>    
-  <remote fetch="ssh://git@github.com:sgx17" name="origin" />
+  <remote fetch="https://github.com/sgx17" name="origin" />
       <default remote="origin" revision="master" />
          <project path="test"      name="test"/>
          <project path="forgitTest"      name="forgitTest" />
